@@ -4,7 +4,7 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import { createRoot } from 'react-dom/'
 
-//Render
+// Render
 const container = document.getElementById('app')
 const root = createRoot(container)
 root.render(
