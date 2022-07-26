@@ -6,13 +6,7 @@
 
 /* BODY */
 .heading {
-.heading {
-  font-size: 50px;
+  font-size: 20px;
   font-weight: bold;
-  border-bottom: 5px solid black;
-}
-
-.fimage {
-  height: 100px;
-  width: 100px;
+  border-bottom: 2px solid gray;
 }
